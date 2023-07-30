@@ -32,7 +32,7 @@ statsmodels
 xgboost
 
 ### Conclusion
-I have used 3 models on this dataset but xgboost is giving me Lower RMSE and best score. By using this model we will predict the sales of sevral product from a perticular outlet store,
+I have used 3 models on this dataset but xgboost is giving me Lower RMSE and best score. By using this model we will predict the sales of sevral product from a perticular outlet store.
 
 
 
